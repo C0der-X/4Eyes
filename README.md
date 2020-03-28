@@ -4,6 +4,7 @@
     the 4eyes: Subdomain ve Domain tarar. Bu program spider özelliğine sahiptir.
 Required Modules / Gerekli Modüller
 
+    requests
     argparse
     colorama
     urllib
