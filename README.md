@@ -1,6 +1,7 @@
 # 4Eyes
 
-the 4eyes: Subdomain and domain scans. And this program has the spider feature.
+============================================================================
+  => the 4eyes: Subdomain and domain scans. And this program has the spider feature.
 ============================================================================
    $ python3 main.py -h
 
@@ -15,3 +16,25 @@ the 4eyes: Subdomain and domain scans. And this program has the spider feature.
 ============================================================================
 
   $ python3 main.py -u https://www.example.com -s 1 -o output.txt
+               ██╗  ██╗███████╗ ██████╗ ███████╗███████╗
+               ██║  ██║██╔════╝██╔════╝ ██╔════╝██╔════╝
+               ███████║█████╗  ██║  ███╗█████╗  ███████╗
+               ╚════██║██╔══╝  ██║   ██║██╔══╝  ╚════██║
+                    ██║███████╗╚██████╔╝███████╗███████║
+                    ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝
+
+
+                        ******* SPIDER *******
+                        
+      ==============================
+      |  [+] Found URL: https://www.example.com.tr/imghp?hl=tr&tab=wi
+      ==============================
+      ==============================
+      |  [+] Found URL: https://www.example.com.tr/intl/tr/about/products?tab=wh
+      ==============================
+      ==============================
+      |  [+] Found URL: https://www.example.com/preferences?hl=tr
+      ==============================
+============================================================================
+
+
