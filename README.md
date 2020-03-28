@@ -1,6 +1,16 @@
 # 4Eyes
   
     the 4eyes: Subdomain and domain scans. This program has the spider feature.
+    the 4eyes: Subdomain ve Domain tarar. Bu program spider özelliğine sahiptir.
+Required Modules / Gerekli Modüller
+
+    argparse
+    colorama
+    urllib
+    os  
+    re
+    random
+    time
 =====================================================================================================
    
    $ python3 main.py -h
