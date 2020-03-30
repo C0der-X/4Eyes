@@ -25,7 +25,7 @@ class Subdomain:
 						print("\n"+Fore.BLUE+"="*33)
 						print(Fore.BLUE+"| "+Fore.GREEN+"[+] Discovered Subdomain: "+Fore.CYAN+adress)
 						print(Fore.BLUE+"="*33)
-					print(Fore.RED+"\r[-] Tried: "+Fore.YELLOW+adress+"                               ",end="")
+					print(Fore.RED+"\r[-] Tried: "+Fore.YELLOW+adress+"                 ",end="")
 			return self.writer(urls)
 		except FileNotFoundError:
 			print("'4Eyes' klasöründe değilsiniz. Lütfen belirtilen klasöre girip programı tekrar çalıştırınız")
